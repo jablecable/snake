@@ -1,9 +1,11 @@
 package game.snake;
 
-public class SnakeDriver {
+
+public class Main {
 
     public static void main (String [] args) {
 
+        GUI.guiStartup();
 
     }
 }
